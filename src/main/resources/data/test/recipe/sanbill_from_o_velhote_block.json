@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "test:o_velhote_block"
+    }
+  ],
+  "result": {
+    "id": "test:sanbill",
+    "count": 4
+  }
+}
