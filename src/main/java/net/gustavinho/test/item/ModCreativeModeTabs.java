@@ -21,6 +21,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.SANBILL.get());
                         pOutput.accept(ModItems.CREPE.get());
                         pOutput.accept(ModBlocks.O_VELHOTE_BLOCK.get());
+                        pOutput.accept(ModBlocks.O_VELHOTE_ORE.get());
                     })
                     .build());
 
